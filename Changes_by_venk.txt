@@ -1,0 +1,8 @@
+Changes in this Project
+
+
+1.Changed CUDA DEVICES to 1 in main.py
+2. changed path to resnet model
+3. changed dataset path
+4.changed tf.session to tf.interactive seesion() > https://github.com/tensorflow/tensorflow/issues/2416
+
